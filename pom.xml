@@ -25,6 +25,14 @@
         </plugins>
     </build>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.aion</groupId>
+            <artifactId>aion_api</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+    </dependencies>
+
     <groupId>io.centrys</groupId>
     <artifactId>aion-wallet</artifactId>
     <version>1.0-SNAPSHOT</version>
